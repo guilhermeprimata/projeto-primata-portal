@@ -1,0 +1,43 @@
+// Catálogo verificado a partir do repositório público Quickplay_Collection (2026-11-08).
+// URL dos jogos: GitHub Pages. Para acrescentar títulos, edite apenas este arquivo.
+export const QUICKPLAY_BASE = 'https://guilhermeprimata.github.io/Quickplay_Collection/';
+export const GAMES = [
+  {id:'guerra_das_faccoes',file:'guerra_das_faccoes.html',name:'Guerra das Facções',emoji:'🛡️',category:'estrategia',desc:'Tower defense pós-apocalíptico com torres, comboios e invasores.',featured:true},
+  {id:'psycho_worms',file:'psycho_worms.html',name:'Psycho Worms',emoji:'🪱',category:'arcade',desc:'Minhocas rivais, evolução, chefes e um pouco de caos numérico.',featured:true},
+  {id:'survive_ninja_mayhem',file:'survive_ninja_mayhem.html',name:'SURVIVE — Ninja Mayhem',emoji:'🥷',category:'acao',desc:'Runner apocalíptico com meteoros, shurikens e 15 fases.',featured:true},
+  {id:'snowball_avalanche',file:'snowball_avalanche.html',name:'Snowball Avalanche',emoji:'❄️',category:'arcade',desc:'Role, cresça e destrua o cenário numa avalanche procedural.',featured:true},
+  {id:'brain_matrix',file:'brain_matrix.html',name:'Brain Matrix',emoji:'🧠',category:'puzzle',desc:'Desafios de atenção e percepção em alta velocidade.',featured:true},
+  {id:'alien_threat',file:'alien_threat.html',name:'Alien Threat',emoji:'🛸',category:'acao',desc:'Pilote um disco voador, abduza alvos e enfrente os humanos.',featured:true},
+  {id:'alien_threat_3d',file:'alien_threat_3d.html',name:'Alien Threat 3D',emoji:'👽',category:'acao',desc:'A invasão ganha volume numa cidade procedural em 3D.'},
+  {id:'hover_heroes_2d',file:'hover_heroes_2d.html',name:'Hover Heroes 2D',emoji:'🚁',category:'simulacao',desc:'Resgates aéreos e incêndios em uma cidade procedural.'},
+  {id:'hover_heroes_25d',file:'hover_heroes_25d.html',name:'Hover Heroes 2.5D',emoji:'🚁',category:'simulacao',desc:'Resgate e combate a incêndios com sensação de profundidade.',featured:true},
+  {id:'hover_heroes_3d',file:'hover_heroes_3d.html',name:'Hover Heroes 3D',emoji:'🚁',category:'simulacao',desc:'Missões de salvamento e pilotagem em cenário tridimensional.'},
+  {id:'gatinhos',file:'salve_os_gatinhos.html',name:'Salve os Gatinhos',emoji:'🐱',category:'arcade',desc:'Resgate gatinhos, faça combos e enfrente desafios crescentes.'},
+  {id:'arqueiro',file:'bow_and_arrow.html',name:'Arqueiro do Vale',emoji:'🏹',category:'acao',desc:'Dez fases de arco e flecha, precisão e combos.'},
+  {id:'reef_runner',file:'reef_runner.html',name:'Reef Runner',emoji:'🐠',category:'arcade',desc:'Atravesse um recife de corais e correntezas perigosas.'},
+  {id:'iron_delta',file:'iron_delta.html',name:'Iron Delta',emoji:'✈️',category:'acao',desc:'Combate aéreo, combustível e chefões em rios hostis.'},
+  {id:'iron_delta_25d',file:'iron_delta_25d.html',name:'Iron Delta 2.5D',emoji:'🛩️',category:'acao',desc:'Combate aéreo pseudo-3D com upgrades e rotas.'},
+  {id:'nebula_duel',file:'Nebula_Duel.html',name:'Nebula Duel',emoji:'🌌',category:'acao',desc:'Duelo espacial: capture a chave e sobreviva ao retorno.'},
+  {id:'skate_or_die',file:'skate_or_die.html',name:'Skate or Die',emoji:'🛹',category:'arcade',desc:'Skate arcade cyberpunk com combos e boosts.'},
+  {id:'toxic_stench',file:'campo_minado.html',name:'Toxic Stench',emoji:'💩',category:'puzzle',desc:'Um campo minado de esgoto com surpresas nada aromáticas.'},
+  {id:'kombo_blocks',file:'kombo_blocks.html',name:'Kombo Blocks',emoji:'🧩',category:'puzzle',desc:'Tetris encontra Match-3 em cascatas de blocos.',featured:true},
+  {id:'neon_pong',file:'pong.html',name:'Neon Pong',emoji:'🏓',category:'arcade',desc:'Pong contra uma inteligência artificial adaptativa.'},
+  {id:'domination_wars',file:'domination_wars.html',name:'Domination Wars',emoji:'⚡',category:'estrategia',desc:'Disputa territorial com trilhas vulneráveis e adversários.'},
+  {id:'dropworks',file:'dropworks.html',name:'Dropworks',emoji:'🧪',category:'puzzle',desc:'Precisão e timing numa fábrica cheia de recipientes.'},
+  {id:'pixel_bomber',file:'pixel_bomberman.html',name:'Pixel Bomber',emoji:'💥',category:'arcade',desc:'Arena de bombas, blocos e rivais explosivos.'},
+  {id:'rift_run',file:'rift_run.html',name:'Rift / Run',emoji:'🛸',category:'acao',desc:'Corredor pseudo-3D de combate e sobrevivência.'},
+  {id:'pixel_joust',file:'pixel_joust.html',name:'Pixel Joust',emoji:'⚔️',category:'acao',desc:'Duelo medieval com espada, escudo e fintas.'},
+  {id:'corrida',file:'corrida_de_cavalos.html',name:'Hipódromo Estelar',emoji:'🏇',category:'arcade',desc:'Largada perfeita, saltos e sprint estratégico.'},
+  {id:'crystal_xplorer',file:'foguetinho.html',name:'Crystal Xplorer',emoji:'💎',category:'acao',desc:'Minere cristais, enfrente hostis e evolua sua nave.'},
+  {id:'idle_trader',file:'idle_trader.html',name:'Império Financeiro 8-bit',emoji:'📈',category:'simulacao',desc:'Mercado idle com ativos, upgrades e prestígio.'},
+  {id:'velha_quantica',file:'jogo_da_velha.html',name:'Velha Quântica',emoji:'❎',category:'puzzle',desc:'Um jogo da velha 4×4 contra a máquina.'},
+  {id:'pulso_genius',file:'memory_genius.html',name:'Pulso Genius',emoji:'🧠',category:'puzzle',desc:'Memorize sequências de cores e bata seus recordes.'},
+  {id:'the_worm',file:'the_worm.html',name:'The Worm',emoji:'🐍',category:'arcade',desc:'Snake reimaginado com um verme bioluminescente.'},
+  {id:'zen_sudoku',file:'sudoku.html',name:'Zen Sudoku',emoji:'🔢',category:'puzzle',desc:'Sudoku clássico com três níveis de dificuldade.'},
+  {id:'hanoi',file:'torre_de_hanoi.html',name:'Torre de Hanói',emoji:'🗼',category:'puzzle',desc:'Resolva o desafio das torres com 3 a 8 discos.'},
+  {id:'adivinhe',file:'advinhe_o_numero.html',name:'Advinhe o Número',emoji:'🎯',category:'puzzle',desc:'Descubra o número secreto antes que o tempo termine.'},
+  {id:'click_speed',file:'click_speed.html',name:'Click Speed',emoji:'🖱️',category:'arcade',desc:'Clique o mais rápido possível. O mouse que lute.'},
+  {id:'forca_neon',file:'jogo_da_forca.html',name:'Forca Neon',emoji:'🔤',category:'puzzle',desc:'Forca com dicas progressivas e desafios de tempo.'},
+  {id:'atomic_raid',file:'atomic_raid.html',name:'Atomic Raid',emoji:'☢️',category:'acao',desc:'Arcade shooter procedural com combustível e upgrades.'}
+];
+export const CATEGORY_LABEL = Object.freeze({acao:'AÇÃO',estrategia:'ESTRATÉGIA',puzzle:'PUZZLE',arcade:'ARCADE',simulacao:'SIMULAÇÃO'});
