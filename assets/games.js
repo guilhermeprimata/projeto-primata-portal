@@ -150,6 +150,24 @@ export const COLECAO2_GAMES = [
       'zh-CN': '1997 复古俯视角 2.5D 摩托狂飙模拟：极速配送、改装车间、房产经营、地下交易与警匪追逐。',
       'en-US': '1997-style 2.5D top-down motorcycle courier simulator with custom tuning, real estate, underworld heists, and police chases.'
     }
+  },
+  {
+    id: 'protocyber_cop',
+    slug: 'protocyber-cop',
+    source: 'colecao2',
+    earlyAccess: true,
+    name: 'PROTOCYBER COP: PROTO-7',
+    emoji: '🤖',
+    category: 'acao',
+    c1: '#0f172a',
+    c2: '#0284c7',
+    desc: {
+      'pt-BR': 'Plataforma 2D em pixel art retrô WebGL2 com transformações de combate, 4 níveis progressivos, chefes épicos, conquistas e suporte a gamepad.',
+      'es-ES': 'Plataforma 2D en pixel art retro WebGL2 con transformaciones de combate, 4 niveles progresivos, jefes épicos, logros y soporte para gamepad.',
+      'ru-RU': 'Ретро 2D-платформер в пиксель-арте на WebGL2 с боевыми трансформациями, 4 уровнями, эпическими боссами, достижениями и поддержкой геймпада.',
+      'zh-CN': 'WebGL2 复古像素风 2D 平台动作游戏，包含战斗变形、4 个递进关卡、史诗首领战、成就系统与手柄支持。',
+      'en-US': 'Retro pixel-art 2D WebGL2 action platformer with combat transformations, 4 progressive levels, epic bosses, achievements, and gamepad support.'
+    }
   }
 ];
 
