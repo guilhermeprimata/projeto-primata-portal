@@ -3,4 +3,4 @@
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: DENY
   Permissions-Policy: camera=(), microphone=(), geolocation=()
-  Content-Security-Policy: default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data: https://shared.fastly.steamstatic.com https://shared.akamai.steamstatic.com https://store.fastly.steamstatic.com; frame-src https://guilhermeprimata.github.io https://store.steampowered.com; connect-src 'self'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data: https://shared.fastly.steamstatic.com https://shared.akamai.steamstatic.com https://store.fastly.steamstatic.com; frame-src https://guilhermeprimata.github.io https://primata-arcade.pages.dev https://store.steampowered.com; connect-src 'self'; upgrade-insecure-requests
