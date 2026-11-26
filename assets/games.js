@@ -114,6 +114,25 @@ export const COLECAO2_GAMES = [
       'en-US': 'Join the bravest caramel street dog on a fast-paced adventure packed with rhythm, dodges, and action.'
     }
   }
+,
+  {
+    id: 'pinote',
+    slug: 'pinote',
+    source: 'colecao2',
+    earlyAccess: true,
+    name: 'Pinote',
+    emoji: '🏍️',
+    category: 'acao',
+    c1: '#071824',
+    c2: '#58c5b2',
+    desc: {
+      'pt-BR': 'Fugas frenéticas de moto pela Metrópole Fixa 8×8 km com Nitro, oficina custom, clima dinâmico, assaltos, grafite e polícia tática.',
+      'es-ES': 'Fugas frenéticas en moto por una metrópolis de 8×8 km con Nitro, taller custom, clima dinámico, atracos, grafiti y policía táctica.',
+      'ru-RU': 'Динамичные погони на мотоцикле по мегаполису 8×8 км с Нитро, кастом-мастерской, погодой, ограблениями, граффити и полицией.',
+      'zh-CN': '在 8×8 公里大都会展开狂飙摩托逃亡，包含氮气加速、改装车间、动态天气、劫案、街头涂鸦与战术警匪追逐。',
+      'en-US': 'Frenetic motorcycle getaways across an 8×8 km metropolis with Nitro, custom workshop, dynamic weather, heists, graffiti, and tactical police.'
+    }
+  }
 ];
 
 export const QUICKPLAY_GAMES = [
