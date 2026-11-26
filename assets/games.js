@@ -132,6 +132,24 @@ export const COLECAO2_GAMES = [
       'zh-CN': '在 8×8 公里大都会展开狂飙摩托逃亡，包含氮气加速、改装车间、动态天气、劫案、街头涂鸦与战术警匪追逐。',
       'en-US': 'Frenetic motorcycle getaways across an 8×8 km metropolis with Nitro, custom workshop, dynamic weather, heists, graffiti, and tactical police.'
     }
+  },
+  {
+    id: 'motocaos_1997',
+    slug: 'motocaos-1997',
+    source: 'colecao2',
+    earlyAccess: true,
+    name: 'Moto Caos 1997',
+    emoji: '🏍️',
+    category: 'acao',
+    c1: '#7f1d1d',
+    c2: '#ea580c',
+    desc: {
+      'pt-BR': 'Simulador top-down 2.5D estilo 1997 de entregas de moto, oficina, mercado imobiliário, submundo e perseguições policiais.',
+      'es-ES': 'Simulador top-down 2.5D estilo 1997 de entregas en moto, taller, mercado inmobiliario, submundo y persecuciones policiales.',
+      'ru-RU': 'Топ-даун 2.5D-симулятор в духе 1997 года: доставка на мотоцикле, тюнинг, недвижимость, криминал и погони от полиции.',
+      'zh-CN': '1997 复古俯视角 2.5D 摩托狂飙模拟：极速配送、改装车间、房产经营、地下交易与警匪追逐。',
+      'en-US': '1997-style 2.5D top-down motorcycle courier simulator with custom tuning, real estate, underworld heists, and police chases.'
+    }
   }
 ];
 
