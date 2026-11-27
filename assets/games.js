@@ -168,6 +168,24 @@ export const COLECAO2_GAMES = [
       'zh-CN': 'WebGL2 复古像素风 2D 平台动作游戏，包含战斗变形、4 个递进关卡、史诗首领战、成就系统与手柄支持。',
       'en-US': 'Retro pixel-art 2D WebGL2 action platformer with combat transformations, 4 progressive levels, epic bosses, achievements, and gamepad support.'
     }
+  },
+  {
+    id: 'ant_battle_fun',
+    slug: 'ant-battle-fun',
+    source: 'colecao2',
+    earlyAccess: true,
+    name: 'Ant Battle & Fun',
+    emoji: '🐜',
+    category: 'estrategia',
+    c1: '#224518',
+    c2: '#e89b25',
+    desc: {
+      'pt-BR': 'Defesa de torres isométrica 2.5D, colônia idle, 12 formigas evolutivas, 7 biomas, guerra de hordas e eventos sazonais 100% procedurais.',
+      'es-ES': 'Defensa de torres isométrica 2.5D, colonia idle, 12 hormigas evolutivas, 7 biomas, guerra de hordas y eventos estacionales 100% procedurales.',
+      'ru-RU': 'Изометрический 2.5D Tower Defense и idle-колония: 12 видов муравьёв с эволюциями, 7 биомов, война орд и сезонные события.',
+      'zh-CN': '2.5D 等距塔防与放置蚁巢：12 种可进化蚂蚁、7 大生态区、军团大战与 100% 程序化节日活动。',
+      'en-US': 'Isometric 2.5D tower defense, idle colony, 12 evolving ants, 7 biomes, horde wars, and 100% procedural seasonal events.'
+    }
   }
 ];
 
